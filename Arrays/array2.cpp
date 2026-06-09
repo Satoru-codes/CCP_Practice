@@ -24,4 +24,5 @@ int main(){
     }
     avg=(float)sum/10;
     cout<<"Maximum:"<<max<<"\n"<<"Minimum:"<<min<<"\n"<<"Sum:"<<sum<<"\n"<<"Average:"<<avg;
+    return 0;
 }
